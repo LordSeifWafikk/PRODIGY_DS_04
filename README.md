@@ -1,2 +1,13 @@
-# PRODIGY_DS_04
- This project involves the analysis and visualization of sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands. Using Python, various text processing techniques, and visualizations, we extract insights from a dataset containing tweets with associated sentiments and topics.
+# Sentiment Analysis and Visualization
+
+This repository contains a Jupyter Notebook that performs sentiment analysis and visualizes the results. The notebook uses various Python libraries to analyze sentiment based on a dataset and generate insightful visualizations.
+
+## Introduction
+This project aims to analyze sentiment from textual data and visualize the distribution of sentiments across different topics. It provides a step-by-step approach to loading the dataset, processing the data, performing sentiment analysis, and creating visualizations.
+
+## Dataset
+The dataset used in this project contains textual data with associated sentiment labels. The data is processed to extract meaningful insights and visualize the sentiment distribution.
+
+## Visualization Examples
+- Sentiment Distribution
+- Topic-based Sentiment Distribution
